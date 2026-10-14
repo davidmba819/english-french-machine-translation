@@ -1,0 +1,10 @@
+{
+    "english_max_length": 20,
+    "french_max_length": 22,
+    "english_vocab_size": 14493,
+    "french_vocab_size": 23539,
+    "pad_token": "[PAD]",
+    "unk_token": "[UNK]",
+    "bos_token": "[BOS]",
+    "eos_token": "[EOS]"
+}
